@@ -38,6 +38,8 @@ ENV/
 *.csv
 *.xlsx
 *.xls
-*.doc
-*.docx
-*.pdf 
+
+# 特定的大文件
+bank-additional-full.csv
+bank-additional.csv
+classification_results.csv 
